@@ -1,0 +1,128 @@
+Screen1 As screen:
+
+    Image1 As image:
+        Fill: =RGBA(242, 233, 233, 0)
+        Height: =1252
+        Image: ='Design 1'
+        ImagePosition: =ImagePosition.Fill
+        Width: =669
+        X: =49
+        Y: =39
+        ZIndex: =1
+
+    Rectangle1 As rectangle:
+        BorderColor: =RGBA(241, 244, 249, 1)
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =1252
+        TabIndex: =-5
+        Width: =670
+        X: =49
+        Y: =39
+        ZIndex: =2
+
+    TextEntrada As text:
+        Align: =Align.Center
+        BorderThickness: =0.25
+        Default: =
+        Fill: =RGBA(202, 202, 202, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =73
+        RadiusBottomLeft: =10
+        RadiusBottomRight: =10
+        RadiusTopLeft: =10
+        RadiusTopRight: =10
+        Size: =24
+        Width: =315
+        X: =228
+        Y: =483
+        ZIndex: =3
+
+    TextSaida As text:
+        Align: =Align.Center
+        BorderThickness: =0.25
+        Default: =
+        Fill: =RGBA(202, 202, 202, 1)
+        FontWeight: =FontWeight.Bold
+        Height: =73
+        RadiusBottomLeft: =10
+        RadiusBottomRight: =10
+        RadiusTopLeft: =10
+        RadiusTopRight: =10
+        Size: =24
+        Width: =315
+        X: =224
+        Y: =593
+        ZIndex: =4
+
+    LabelResultado As label:
+        Align: =Align.Center
+        Fill: =RGBA(202, 202, 202, 1)
+        FocusedBorderThickness: =10
+        FontWeight: =FontWeight.Bold
+        Height: =61
+        Size: =24
+        Text: =DateDiff(TimeValue(TextEntrada.Text),TimeValue(TextSaida.Text),TimeUnit.Minutes)/60
+        Width: =290
+        X: =238
+        Y: =718
+        ZIndex: =5
+
+    Label3 As label:
+        Color: =RGBA(237, 237, 237, 1)
+        Height: =28
+        Size: =17
+        Text: ="Entrada"
+        Width: =99
+        X: =228
+        Y: =455
+        ZIndex: =6
+
+    Label3_1 As label:
+        Color: =RGBA(237, 237, 237, 1)
+        Height: =21
+        Size: =17
+        Text: ="Saida"
+        Width: =84
+        X: =228
+        Y: =572
+        ZIndex: =7
+
+    Label3_2 As label:
+        Color: =RGBA(237, 237, 237, 1)
+        Height: =22
+        Size: =17
+        Text: ="Horas Trabalhadas"
+        Width: =270
+        X: =238
+        Y: =696
+        ZIndex: =8
+
+    Rectangle2 As rectangle:
+        Fill: =RGBA(232, 244, 217, 1)
+        Height: =1252
+        Width: =49
+        Y: =39
+        ZIndex: =9
+
+    Rectangle2_1 As rectangle:
+        Fill: =RGBA(232, 244, 217, 1)
+        Height: =1252
+        Width: =49
+        X: =719
+        Y: =39
+        ZIndex: =10
+
+    Rectangle2_2 As rectangle:
+        Fill: =RGBA(232, 244, 217, 1)
+        Height: =38
+        Width: =768
+        Y: =1
+        ZIndex: =11
+
+    Rectangle2_3 As rectangle:
+        Fill: =RGBA(232, 244, 217, 1)
+        Height: =75
+        Width: =768
+        Y: =1291
+        ZIndex: =12
+

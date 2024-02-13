@@ -1,0 +1,99 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Image1": 7,
+    "Label3": 10,
+    "Label3_1": 12,
+    "Label3_2": 14,
+    "LabelResultado": 15,
+    "Rectangle1": 8,
+    "Rectangle2": 6,
+    "Rectangle2_1": 9,
+    "Rectangle2_2": 5,
+    "Rectangle2_3": 16,
+    "Screen1": 4,
+    "TextEntrada": 11,
+    "TextSaida": 13
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/13/2024 22:39:04",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {
+    "Design 1": "0efac5b8-2a47-4f0c-b06b-03a9b0cfc431.png"
+  },
+  "LocalResourceRootPaths": {
+    "Design 1": "https://docserverpwaprodsbr.blob.core.windows.net/c155c58b-aa42-40e1-bf2f-c8d8fb946460-1/resource/Assets0Images00efac5b8-2a47-4f0c-b06b-03a9b0cfc431.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-13T22%3A33%3A45Z&ske=2024-02-14T22%3A48%3A45Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-14T22%3A48%3A45Z&sr=b&sp=r&sig=QrEw5bgjxUmyrmPgWnpnA8v9MV0wNUAbv4mttdIbQRU%3D"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "image": 1,
+    "label": 2,
+    "rectangle": 0,
+    "text": 3
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Image1": {},
+    "Label3": {},
+    "Label3_1": {},
+    "Label3_2": {},
+    "LabelResultado": {},
+    "Rectangle1": {},
+    "Rectangle2": {},
+    "Rectangle2_1": {},
+    "Rectangle2_2": {},
+    "Rectangle2_3": {},
+    "Screen1": {},
+    "TextEntrada": {},
+    "TextSaida": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Image1": 2,
+    "Label3": 5,
+    "Label3_1": 7,
+    "Label3_2": 9,
+    "LabelResultado": 10,
+    "Rectangle1": 3,
+    "Rectangle2": 1,
+    "Rectangle2_1": 4,
+    "Rectangle2_2": 0,
+    "Rectangle2_3": 11,
+    "Screen1": 0,
+    "TextEntrada": 6,
+    "TextSaida": 8
+  },
+  "ResourcesJsonIndices": {
+    "Image-Design 1": 1,
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0961465,
+    "ControlCount": {
+      "image": 1,
+      "label": 4,
+      "rectangle": 5,
+      "screen": 1,
+      "text": 2
+    },
+    "DeserializationLoadTime": 0.7809313
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
